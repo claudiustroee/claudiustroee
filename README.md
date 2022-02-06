@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on some projects of mine.
 - 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on any interesting aplication. 
+- 👯 I’m looking to collaborate on any interesting application. 
 - 🤔 I’m looking for help with NFTs and Blockchain.
 - 💬 Ask me about Python aplications or any tech related stuff. 
 - 📫 How to reach me: claudiu.stroee@gmail.com
