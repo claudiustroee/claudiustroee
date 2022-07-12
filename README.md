@@ -1,4 +1,4 @@
-### Hello, I am Claudiu Stroe! 👋
+### Hello, I am Claudiu! 👋
 
 - 🔭 I’m currently working on some projects of mine.
 - 🌱 I’m currently learning Java.
