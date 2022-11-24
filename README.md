@@ -14,8 +14,8 @@
 
 
 
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-<!--  --> soon -->
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> -->
+
  
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50"/> -->
 
