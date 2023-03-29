@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on web apps.
 - 📫 How to reach me: claudiu.stroee@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Drum and Bass.
+<!-- - 😄 Pronouns: He/His -->
 <!-- - 🌱 I’m currently learning Java. -->
-<!-- - 🤔 I’m looking for help with NFTs and Blockchain understanding. -->
+<!-- - 🤔 I’m looking for help with Blockchain understanding. -->
 <!-- - 💬 Ask me about Python applications or any tech related stuff.  -->
 
 🧰 Toolbox
