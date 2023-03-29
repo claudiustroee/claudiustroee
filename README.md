@@ -1,6 +1,6 @@
 ### Hello, I am Claudiu! 👋
 
-- 🔭 I’m currently working on some projects of mine.
+- 🔭 I’m currently working on web apps.
 - 📫 How to reach me: claudiu.stroee@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Drum and Bass.
