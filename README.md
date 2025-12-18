@@ -1,6 +1,6 @@
 ### Hello, I am Claudiu! 👋
 
-- 😄 Here you have my website [umbrellawebdesign.com](https://www.umbrellawebdesign.com/)
+- 😄 Here you have my website [umbrelladigital.ro](https://www.umbrelladigital.ro)
 - 🔭 I’m currently developing web apps.
 - 📫 How to reach me: claudiu.stroee@gmail.com
 - ⚡ Fun fact: I love Drum and Bass.
